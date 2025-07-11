@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/shadewire/static/css/main.99888e9c.css",
-    "main.js": "/shadewire/static/js/main.e1651f0c.js",
-    "index.html": "/shadewire/index.html",
-    "main.99888e9c.css.map": "/shadewire/static/css/main.99888e9c.css.map",
-    "main.e1651f0c.js.map": "/shadewire/static/js/main.e1651f0c.js.map"
+    "main.css": "/static/css/main.99888e9c.css",
+    "main.js": "/static/js/main.e1651f0c.js",
+    "index.html": "/index.html",
+    "main.99888e9c.css.map": "/static/css/main.99888e9c.css.map",
+    "main.e1651f0c.js.map": "/static/js/main.e1651f0c.js.map"
   },
   "entrypoints": [
     "static/css/main.99888e9c.css",
